@@ -1,2 +1,21 @@
-# spam-classifier-naive-bayes
-# Naive Bayes Spam Classifier A simple implementation of a Naive Bayes classifier to detect spam emails.
+# Naive Bayes Spam Classifier
+
+Implementation of a Naive Bayes classifier for spam email detection using Python.
+
+## Features
+
+- Text preprocessing
+- Naive Bayes implementation from scratch
+- Train/test evaluation
+- Spam classification
+
+## Dataset
+
+The dataset contains labeled emails classified as:
+- spam
+- ham
+
+## Installation
+
+```bash
+pip install -r requirements.txt
